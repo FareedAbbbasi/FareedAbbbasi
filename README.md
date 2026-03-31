@@ -59,8 +59,8 @@ I enjoy writing clean code and continuously growing my skills.
 
 ## 📌 Summary of My Expertise
 
-- **Frontend:** Next.js , React.js, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
+- **Frontend:** Next.js , React.js, Tailwind CSS, HTML, CSS, JavaScript, Zustand  
+- **Backend:** Node.js, Express.js, nestjs
 - **Database:** MongoDB, PostgreSQL
 - **Languages:** JavaScript, TypeScript  
 - **Other:** Git, Agile, Figma  
