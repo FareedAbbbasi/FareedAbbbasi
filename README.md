@@ -60,9 +60,10 @@ I enjoy writing clean code and continuously growing my skills.
 ## 📌 Summary of My Expertise
 
 - **Frontend:** Next.js , React.js, Tailwind CSS, HTML, CSS, JavaScript, Zustand  
-- **Backend:** Node.js, Express.js, nestjs
+- **Backend:** Node.js, Express.js, Nestjs
 - **Database:** MongoDB, PostgreSQL
-- **Languages:** JavaScript, TypeScript  
+- **Languages:** JavaScript, TypeScript
+- **DevOps:** Docker, Docker-compose, Github Actions, AWS, Linux, Git 
 - **Other:** Git, Agile, Figma  
 
 ---
