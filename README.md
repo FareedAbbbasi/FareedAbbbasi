@@ -59,25 +59,11 @@ I enjoy writing clean code and continuously growing my skills.
 
 ## 📌 Summary of My Expertise
 
-- **Frontend:** Next.js (beginner), React.js, Tailwind CSS  
+- **Frontend:** Next.js , React.js, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB
+- **Database:** MongoDB, PostgreSQL
 - **Languages:** JavaScript, TypeScript  
 - **Other:** Git, Agile, Figma  
-
----
-
-## 📚 Learning Progress
-
-### Currently Learning
-- **Next.js (Basics → Intermediate)**  
-  - Routing, Components, API Routes  
-- **PostgreSQL**  
-  - Tables, relations, joins  
-
-### ⏳ Planned Learning (Not Started Yet)
-- **DevOps**  
-  - Docker, Kubernetes, CI/CD pipelines  
 
 ---
 
